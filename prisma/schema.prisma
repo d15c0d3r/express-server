@@ -33,3 +33,8 @@ model Review {
 
   @@map(name: "reviews")
 }
+
+// enum Category {
+//   KITCHEN
+//   ELECTRONICS
+// }
